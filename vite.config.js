@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:'/CST2107Midterm.github.io/',
+  base:'CSTP-2107-Fall_Midterm.github.io/',
   plugins: [react()],
 })
